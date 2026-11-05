@@ -6,6 +6,8 @@ A party-free platform to **recruit** credible independent candidates and steer t
 
 No party. No platform. No loyalty oath. Candidates answer only to their constituents.
 
+**🌐 Live site: [3rd-party-politics.vercel.app](https://3rd-party-politics.vercel.app)**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Good first issues](https://img.shields.io/badge/good%20first%20issues-open-blue.svg)](https://github.com/chrbailey/3rd-Party-Politics/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
