@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the manifesto first
+    url: https://github.com/chrbailey/3rd-Party-Politics#readme
+    about: The README explains why this is rails for independents — not a third party.
+  - name: How to contribute
+    url: https://github.com/chrbailey/3rd-Party-Politics/blob/main/CONTRIBUTING.md
+    about: Start with verifying one state or scoring one district.
