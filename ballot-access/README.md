@@ -49,6 +49,6 @@ Every journalist, researcher, and would-be candidate who Googles *"how many sign
 
 | Region | States verified |
 |---|---|
-| All | 0 / 50 — pick yours in [CONTRIBUTING.md](../CONTRIBUTING.md) |
+| All | **2 / 50** — California, Texas (verified 2026-11-05; see `states/california.md` and `states/texas.md`, closing issues #1 and #2). Pick yours in [CONTRIBUTING.md](../CONTRIBUTING.md) |
 
 Open a *Verify a state* issue before you start, so two people don't duplicate the same state.
